@@ -13,6 +13,8 @@ Code
 # File overview:
 
 nba.ipynb - a Jupyter notebook that makes predictions.
+games.csv - the original data set.
+nba_games.csv - the updated data set to for the ML needs.
 
 # Local Setup
 
